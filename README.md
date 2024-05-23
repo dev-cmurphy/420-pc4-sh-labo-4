@@ -1,6 +1,6 @@
-# lab2-paniervert-interface
+# lab4-paniervert-interface
 
-Projet Vue.js du laboratoire 2
+Projet Vue.js du laboratoire 4
 
 ## Recommended IDE Setup
 
